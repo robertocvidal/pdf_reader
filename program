@@ -1,0 +1,22 @@
+import os
+#import pdf2text
+#import pdfminer
+
+def main():
+    #import_pdf()
+    #parse_pdf()
+    #send_info_to_xls()
+
+    print(os.path.abspath(os.path.join("conta_vivo.pdf")))
+
+
+#def import_pdf():
+#    text = pdf2text.
+#    print(text)
+
+
+
+
+
+if __name__ == "__main__":
+    main()
